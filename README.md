@@ -119,14 +119,26 @@ Major analyses performed:
 ---
 
 ## <a id="screenshot"></a>📸 Dashboard Preview
-(Insert your Power BI dashboard screenshot here)
+**Dashboard**
+
+
+<img width="1822" height="1007" alt="Image" src="https://github.com/user-attachments/assets/b07d935f-1893-4af5-85a9-a382fda3925c" />
+
+
+
+**ToolTip**
+
+
+<img width="1457" height="796" alt="Image" src="https://github.com/user-attachments/assets/d00b83bd-9057-4256-ac46-6e8d80c0f7d3" />
+
 
 ---
 
 ## <a id="contact"></a>👤 Author & Contact
-**Vaibhav Goyal**  
-📧 *vg.goyal611@gmail.com*  
-💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-29b70a30/)  
-🌐 [GitHub](https://github.com/vggoyal611)
+👤 Author: Vaibhav Goyal<br>
+📧 Email: vg.goyal611@gmail.com<br>
+💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-29b70a30/)<br>
+🧑‍💻 [Portfolio](https://github.com/vggoyal611)<br>
+🌐 [Website](https://vaibhav-goyal-7nkea52.gamma.site) 
 
 ---
